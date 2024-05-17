@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main className="flex justify-center items-center">
       <Image
-        src={src} // Static Image, no need to set the width and height
+        src={src} /* Static Image, no need to set the width and height */
         alt="desert"
         placeholder="blur"
         className="md:w-40 w-screen"
