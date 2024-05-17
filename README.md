@@ -1,4 +1,4 @@
-This is project shows example for a few use cases of Next.js <Image> component via [this blog post](https://www.premieroctet.com/blog/next-image-component)
+This is project shows example for a few use cases of Next.js `<Image>` component via [this blog post](https://www.premieroctet.com/blog/next-image-component)
 ## Getting Started
 
 First, run the development server:
