@@ -1,7 +1,7 @@
 import Image from "next/image";
 import src from "../../../public/arrakis.jpeg";
 
-export default function Home() {
+export default function StaticImageBgExamplePage() {
   return (
     <section className="relative w-screen h-screen flex justify-center items-center overflow-hidden">
       <h1 className="relative z-30 text-4xl sm:text-8xl text-center">

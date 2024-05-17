@@ -40,7 +40,7 @@ function Grid({ children }: { children: React.ReactNode }) {
   );
 }
 
-export default function Home() {
+export default function GalleryExamplePage() {
   return (
     <Grid>
       <Card

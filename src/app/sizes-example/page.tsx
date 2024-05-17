@@ -6,7 +6,7 @@ import src from "../../../public/arrakis.jpeg";
   Even though the image is 7360 x 4912 pixels, the `sizes` attribute will ensure that the correct 
   size is downloaded based on the viewport width.
 */
-export default function Home() {
+export default function SizeExamplePage() {
   return (
     <main className="flex justify-center items-center">
       <Image
