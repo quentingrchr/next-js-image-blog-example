@@ -63,7 +63,7 @@ export default function GalleryExamplePage() {
       />
       <Card
         alt="Lisan al Gaib"
-        description="As it was written"
+        description="As it was written."
         src="/rat.jpeg"
         title="Lisan al Gaib"
       />
